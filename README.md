@@ -1,12 +1,17 @@
 # Hi there, I'm Matthias Lapu! 👋
+<img align="right" width=150px src="./img/coffee.gif" />
 
 I'm a Computer Science student pursuing a double master's degree in:
 - High-Performance Computing at the "École Nationale Supérieure d'Informatique pour l'Industrie et l'Entreprise" (ENSIIE)
 - Cybersecurity at the University of Quebec in Chicoutimi (UQAC)
 
+
+
 ---
 
 ## Projects
+
+Here is a list of my projects, whether they are personal or academic.
 
 ### System Configuration, Cybersecurity 🔒
 
