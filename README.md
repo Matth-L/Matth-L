@@ -6,8 +6,6 @@ I'm a Computer Science student pursuing a double master's degree in:
 - High-Performance Computing at the "École Nationale Supérieure d'Informatique pour l'Industrie et l'Entreprise" (ENSIIE)
 - Cybersecurity at the University of Quebec in Chicoutimi (UQAC)
 
----
-
 ## Projects
 
 Here is a list of my projects, whether they are personal or academic.
@@ -82,7 +80,7 @@ Here is a list of my projects, whether they are personal or academic.
   </a>
 </div>
 
-## My Languages statistics
+## Languages used
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matth-L&layout=compact&theme=tokyonight" alt="Top Languages" style="width: 49%; height: auto;" />
