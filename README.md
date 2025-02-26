@@ -87,3 +87,9 @@ I'm a Computer Science student pursuing a double master's degree in:
     </a>
   </p>
 </div>
+
+## My Languages statistics
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matth-L&layout=compact&theme=tokyonight" alt="Top Languages" width="400" height="150" />
+</div>
