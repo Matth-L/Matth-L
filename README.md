@@ -91,5 +91,5 @@ I'm a Computer Science student pursuing a double master's degree in:
 ## My Languages statistics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matth-L&layout=compact&theme=tokyonight" alt="Top Languages" width="200" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matth-L&layout=compact&theme=tokyonight" alt="Top Languages"/>
 </div>
