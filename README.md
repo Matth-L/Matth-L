@@ -10,7 +10,7 @@ I'm a Computer Science student pursuing a double master's degree in:
 
 Here is a list of my projects, whether they are personal or academic.
 
-### System Configuration, Cybersecurity 🔒
+### System Configuration 🔒
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
   <a href="https://github.com/Matth-L/detectish" style="flex: 1 1 300px;">
