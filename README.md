@@ -17,7 +17,7 @@ Here is a list of my projects, whether they are personal or academic.
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Matth-L&repo=detectish" alt="detectish" style="width: 49%; height: auto;" />
   </a>
   <a href="https://github.com/Matth-L/BigKubeData" style="flex: 1 1 300px;">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Matth-L&repo=BigKubeData" alt="Cloud-Lab-Compendium" style="width: 49%; height: auto;" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Matth-L&repo=BigKubeData" alt="BigKubeData" style="width: 49%; height: auto;" />
   </a>
   <a href="https://github.com/Matth-L/RaspiGatekeeper" style="flex: 1 1 300px;">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Matth-L&repo=RaspiGatekeeper" alt="RaspiGatekeeper" style="width: 49%; height: auto;" />
