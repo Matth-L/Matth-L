@@ -82,7 +82,3 @@ Here is a list of my projects, both personal and academic.
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Matth-L&repo=i3config" alt="i3config" />
   </a>
 </div>
-  <a href="https://github.com/Matth-L/i3config" style="flex: 1 1 300px;">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Matth-L&repo=i3config" alt="i3config" />
-  </a>
-</div>
