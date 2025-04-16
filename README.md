@@ -30,7 +30,7 @@ Here is a list of my projects, both personal and academic.
   </a>
 </div>
 
-### Algorithm & Parallel Computing 🧮
+### Algorithm 🧮
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
   <a href="https://github.com/Matth-L/Data-Structure-Compendium" style="flex: 1 1 300px;">
