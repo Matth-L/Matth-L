@@ -82,9 +82,3 @@ Here is a list of my projects, whether they are personal or academic.
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Matth-L&repo=i3config" alt="i3config" style="width: 49%; height: auto;" />
   </a>
 </div>
-
-## Languages used
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matth-L&layout=compact&theme=tokyonight" alt="Top Languages" style="width: 49%; height: auto;" />
-</div>
