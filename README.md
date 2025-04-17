@@ -56,6 +56,9 @@ Here is a list of my projects, both personal and academic.
   <a href="https://github.com/Matth-L/Quantum-Harmonic-Oscillator" style="flex: 1 1 300px;">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Matth-L&repo=Quantum-Harmonic-Oscillator" alt="Quantum-Harmonic-Oscillator" />
   </a>
+  <a href="https://github.com/Matth-L/IoT-Data-Collection" style="flex: 1 1 300px;">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Matth-L&repo=IoT-Data-Collection" alt="IoT-Data-Collection" />
+  </a>
   <a href="https://github.com/Matth-L/Quantum-ABC-Sleator" style="flex: 1 1 300px;">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Matth-L&repo=Quantum-ABC-Sleator" alt="Quantum-ABC-Sleator" />
   </a>
