@@ -22,6 +22,9 @@ Here is a list of my projects, both personal and academic.
   <a href="https://github.com/Matth-L/RaspiGatekeeper" style="flex: 1 1 300px;">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Matth-L&repo=RaspiGatekeeper" alt="RaspiGatekeeper" />
   </a>
+  <a href="https://github.com/Matth-L/IoT-Data-Collection" style="flex: 1 1 300px;">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Matth-L&repo=IoT-Data-Collection" alt="IoT-Data-Collection" />
+  </a>
   <a href="https://github.com/Matth-L/Cloud-Lab-Compendium" style="flex: 1 1 300px;">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Matth-L&repo=Cloud-Lab-Compendium" alt="Cloud-Lab-Compendium" />
   </a>
@@ -55,9 +58,6 @@ Here is a list of my projects, both personal and academic.
   </a>
   <a href="https://github.com/Matth-L/Quantum-Harmonic-Oscillator" style="flex: 1 1 300px;">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Matth-L&repo=Quantum-Harmonic-Oscillator" alt="Quantum-Harmonic-Oscillator" />
-  </a>
-  <a href="https://github.com/Matth-L/IoT-Data-Collection" style="flex: 1 1 300px;">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Matth-L&repo=IoT-Data-Collection" alt="IoT-Data-Collection" />
   </a>
   <a href="https://github.com/Matth-L/Quantum-ABC-Sleator" style="flex: 1 1 300px;">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Matth-L&repo=Quantum-ABC-Sleator" alt="Quantum-ABC-Sleator" />
