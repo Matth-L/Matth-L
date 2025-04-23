@@ -39,6 +39,9 @@ Here is a list of my projects, both personal and academic.
   <a href="https://github.com/Matth-L/Data-Structure-Compendium" style="flex: 1 1 300px;">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Matth-L&repo=Data-Structure-Compendium" alt="Data-Structure-Compendium" />
   </a>
+  <a href="https://github.com/Matth-L/Graph-Tree-Compendium" style="flex: 1 1 300px;">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Matth-L&repo=Graph-Tree-Compendium" alt="Graph-Tree-Compendium" />
+  </a>
   <a href="https://github.com/Matth-L/Parallel-Algorithm-Compendium" style="flex: 1 1 300px;">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Matth-L&repo=Parallel-Algorithm-Compendium" alt="Parallel-Algorithm-Compendium" />
   </a>
