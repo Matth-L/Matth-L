@@ -8,7 +8,7 @@ I'm a Computer Science student pursuing a double master's degree in:
 
 ## Projects
 
-Here is a list of my projects, both personal and academic.
+Here is a list of my projects :
 
 
 ### HPC Contribution
