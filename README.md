@@ -6,6 +6,8 @@ I'm a Computer Science student pursuing a double master's degree in:
 - High-Performance Computing at ENSIIE
 - Cybersecurity at UQAC
 
+Currently working as a CEA intern.
+
 ## Projects
 
 Here is a list of my projects :
