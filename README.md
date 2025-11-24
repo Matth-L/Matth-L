@@ -10,9 +10,6 @@ Currently working as a CEA intern.
 
 ## Projects
 
-Here is a list of my projects :
-
-
 ### HPC Contribution
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
