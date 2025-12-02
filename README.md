@@ -38,8 +38,3 @@ Currently working as a CEA intern. I focus on high-performance computing, distri
 
 ---
 
-Contributing, exploring or collaborating — welcome! Pull requests, issues and suggestions are appreciated.
-
-Connect: find me on GitHub or email (see my profile).
-
-_Updated by GitHub Copilot Chat Assistant._
