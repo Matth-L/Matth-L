@@ -10,7 +10,7 @@ Currently working as a CEA intern. I focus on high-performance computing, distri
 
 ---
 
-### Projects Overview (organized by theme)
+### Projects Overview
 
 | Category | Project | What it is | Link |
 |---|---|---|---|
