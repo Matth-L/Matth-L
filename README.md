@@ -3,37 +3,43 @@
 <img align="right" width="150" src="./img/coffee.gif" alt="Coffee GIF" />
 
 I'm a Computer Science student pursuing a double master's degree in:
-- High-Performance Computing at ENSIIE
-- Cybersecurity at UQAC
+- High-Performance Computing at ENSIIE 🖥️
+- Cybersecurity at UQAC 🔐
 
-Currently working as a CEA intern.
-Here’s your project list organized in a **Markdown table** for clarity:
+Currently working as a CEA intern. I focus on high-performance computing, distributed systems, security, algorithms, embedded systems, and visualization.
 
 ---
 
-### **Projects Overview**
+### Projects Overview (organized by theme)
 
-| **Category**               | **Project Name**                     | **Description**                                      | **Link**                                                                 |
-|----------------------------|--------------------------------------|------------------------------------------------------|-------------------------------------------------------------------------|
-| **HPC Contribution**       | llview-docker-cluster                | Docker cluster for LLView                            | [GitHub](https://github.com/Matth-L/llview-docker-cluster)              |
-|                            | ldms-docker-cluster                  | Docker cluster for LDMS                              | [GitHub](https://github.com/Matth-L/ldms-docker-cluster)                |
-|                            | llview                               | LLView project                                       | [GitHub](https://github.com/FZJ-JSC/llview)                            |
-| **System Configuration**   | detectish                            | System detection tool                                | [GitHub](https://github.com/Matth-L/detectish)                         |
-|                            | BigKubeData                          | Kubernetes data project                              | [GitHub](https://github.com/Matth-L/BigKubeData)                       |
-|                            | RaspiGatekeeper                      | Raspberry Pi gatekeeper                             | [GitHub](https://github.com/Matth-L/RaspiGatekeeper)                   |
-|                            | IoT-Data-Collection                  | IoT data collection                                  | [GitHub](https://github.com/Matth-L/IoT-Data-Collection)               |
-|                            | Cloud-Lab-Compendium                 | Cloud lab resources                                  | [GitHub](https://github.com/Matth-L/Cloud-Lab-Compendium)              |
-|                            | HPC-Cluster-Setup                    | HPC cluster setup guide                              | [GitHub](https://github.com/Matth-L/HPC-Cluster-Setup)                 |
-| **Algorithm**              | Data-Structure-Compendium            | Data structures reference                            | [GitHub](https://github.com/Matth-L/Data-Structure-Compendium)         |
-|                            | Graph-Tree-Compendium                | Graph and tree algorithms                            | [GitHub](https://github.com/Matth-L/Graph-Tree-Compendium)             |
-|                            | Parallel-Algorithm-Compendium       | Parallel algorithms                                  | [GitHub](https://github.com/Matth-L/Parallel-Algorithm-Compendium)    |
-|                            | Maximum-Flow-Problem                 | Maximum flow solutions                               | [GitHub](https://github.com/Matth-L/Maximum-Flow-Problem)              |
-|                            | Turing-Machine                      | Turing machine simulation                            | [GitHub](https://github.com/Matth-L/Turing-Machine)                   |
-| **Visualization & Simulation** | Local-Density-Nuclear-System      | Nuclear system simulation                            | [GitHub](https://github.com/Matth-L/Local-Density-Nuclear-System)      |
-|                            | Quantum-Harmonic-Oscillator         | Quantum harmonic oscillator                          | [GitHub](https://github.com/Matth-L/Quantum-Harmonic-Oscillator)      |
-|                            | Quantum-ABC-Sleator                 | Quantum algorithm                                    | [GitHub](https://github.com/Matth-L/Quantum-ABC-Sleator)               |
-|                            | MKR1310-DataCollector                | Data collector for MKR1310                           | [GitHub](https://github.com/Matth-L/MKR1310-DataCollector)             |
-| **Hardware & System Programming** | My-Processor                   | Custom processor project                             | [GitHub](https://github.com/Matth-L/My-Processor)                     |
-|                            | Unix-basics                         | Unix basics guide                                    | [GitHub](https://github.com/Matth-L/Unix-basics)                      |
-| **Custom i3WM Configuration** | i3config                          | i3 window manager configuration                       | [GitHub](https://github.com/Matth-L/i3config)                         |
+| Category | Project | What it is | Link |
+|---|---|---|---|
+| ⚡ HPC & Clusters | llview-docker-cluster | Lightweight Docker-based LLView cluster for testing and demos. | [GitHub](https://github.com/Matth-L/llview-docker-cluster) |
+| ⚡ HPC & Clusters | ldms-docker-cluster | Docker cluster setup for LDMS (Lightweight Distributed Metric Store). | [GitHub](https://github.com/Matth-L/ldms-docker-cluster) |
+| ⚡ HPC & Clusters | llview | LLView monitoring and visualization tools (upstream). | [GitHub](https://github.com/FZJ-JSC/llview) |
+| 🛠️ System & DevOps | detectish | Minimal system detection tool for quickly identifying OS/hardware details. | [GitHub](https://github.com/Matth-L/detectish) |
+| ☸️ Kubernetes & Cloud | BigKubeData | Tools and examples for gathering and analyzing Kubernetes data at scale. | [GitHub](https://github.com/Matth-L/BigKubeData) |
+| 🛡️ Security & IoT | RaspiGatekeeper | Raspberry Pi-based gatekeeper for home/edge deployments. | [GitHub](https://github.com/Matth-L/RaspiGatekeeper) |
+| 📡 IoT | IoT-Data-Collection | Scripts and pipelines to collect sensor data from edge devices. | [GitHub](https://github.com/Matth-L/IoT-Data-Collection) |
+| ☁️ Cloud Labs | Cloud-Lab-Compendium | Collection of cloud lab notes, playbooks and examples for learning cloud infra. | [GitHub](https://github.com/Matth-L/Cloud-Lab-Compendium) |
+| 🧭 HPC Guides | HPC-Cluster-Setup | Practical guide and scripts to setup a small HPC cluster. | [GitHub](https://github.com/Matth-L/HPC-Cluster-Setup) |
+| 📚 Algorithms & DS | Data-Structure-Compendium | Concise reference of common data structures and usage examples. | [GitHub](https://github.com/Matth-L/Data-Structure-Compendium) |
+| 🌳 Graphs & Trees | Graph-Tree-Compendium | Implementations and notes for graph and tree algorithms. | [GitHub](https://github.com/Matth-L/Graph-Tree-Compendium) |
+| ⚙️ Parallel Algorithms | Parallel-Algorithm-Compendium | Reference implementations and explanations of parallel algorithms. | [GitHub](https://github.com/Matth-L/Parallel-Algorithm-Compendium) |
+| 🔢 Optimization | Maximum-Flow-Problem | Implementations and solvers for maximum flow problems. | [GitHub](https://github.com/Matth-L/Maximum-Flow-Problem) |
+| 🧠 Theory & Simulation | Turing-Machine | A simple Turing machine simulator for learning computation theory. | [GitHub](https://github.com/Matth-L/Turing-Machine) |
+| 🔬 Physics & Visualization | Local-Density-Nuclear-System | Simulation and visualization of a local density nuclear system. | [GitHub](https://github.com/Matth-L/Local-Density-Nuclear-System) |
+| ⚛️ Quantum | Quantum-Harmonic-Oscillator | Educational implementation of the quantum harmonic oscillator. | [GitHub](https://github.com/Matth-L/Quantum-Harmonic-Oscillator) |
+| 🧪 Quantum Algorithms | Quantum-ABC-Sleator | Experimental quantum algorithm implementations and notes. | [GitHub](https://github.com/Matth-L/Quantum-ABC-Sleator) |
+| 📡 Embedded | MKR1310-DataCollector | Data collector for the Arduino MKR1310 — example edge data pipeline. | [GitHub](https://github.com/Matth-L/MKR1310-DataCollector) |
+| 🧩 Hardware | My-Processor | Personal CPU/processor design project — learning computer architecture. | [GitHub](https://github.com/Matth-L/My-Processor) |
+| 🐧 Unix & Tools | Unix-basics | Notes, examples and quick recipes for common Unix tasks. | [GitHub](https://github.com/Matth-L/Unix-basics) |
+| 🪟 Window Manager | i3config | My personal i3 window manager configuration and shortcuts. | [GitHub](https://github.com/Matth-L/i3config) |
 
+---
+
+Contributing, exploring or collaborating — welcome! Pull requests, issues and suggestions are appreciated.
+
+Connect: find me on GitHub or email (see my profile).
+
+_Updated by GitHub Copilot Chat Assistant._
