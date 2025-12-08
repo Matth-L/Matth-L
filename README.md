@@ -14,9 +14,9 @@ Currently working as a CEA intern. I focus on high-performance computing, distri
 
 | Category | Project | What it is | Link |
 |---|---|---|---|
-| ⚡ HPC & Clusters | llview-docker-cluster | Lightweight Docker-based LLView cluster for testing and demos. | [GitHub](https://github.com/Matth-L/llview-docker-cluster) |
-| ⚡ HPC & Clusters | ldms-docker-cluster | Docker cluster setup for LDMS (Lightweight Distributed Metric Store). | [GitHub](https://github.com/Matth-L/ldms-docker-cluster) |
-| ⚡ HPC & Clusters | llview | LLView monitoring and visualization tools (upstream). | [GitHub](https://github.com/FZJ-JSC/llview) |
+| ⚡ HPC & Clusters | llview-docker-cluster | Docker cluster with LLView from JSC | [GitHub](https://github.com/Matth-L/llview-docker-cluster) |
+| ⚡ HPC & Clusters | ldms-docker-cluster | Docker cluster with LDMS (Lightweight Distributed Metric Store) from OVIS-HPC. | [GitHub](https://github.com/Matth-L/ldms-docker-cluster) |
+| ⚡ HPC & Clusters | llview | LLView monitoring and visualization tools (upstream contribution). | [GitHub](https://github.com/FZJ-JSC/llview) |
 | 🛠️ System & DevOps | detectish | Minimal system detection tool for quickly identifying OS/hardware details. | [GitHub](https://github.com/Matth-L/detectish) |
 | ☸️ Kubernetes & Cloud | BigKubeData | Tools and examples for gathering and analyzing Kubernetes data at scale. | [GitHub](https://github.com/Matth-L/BigKubeData) |
 | 🛡️ Security & IoT | RaspiGatekeeper | Raspberry Pi-based gatekeeper for home/edge deployments. | [GitHub](https://github.com/Matth-L/RaspiGatekeeper) |
