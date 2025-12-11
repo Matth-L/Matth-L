@@ -6,7 +6,7 @@ I'm a Computer Science student pursuing a double master's degree in:
 - High-Performance Computing at ENSIIE 🖥️
 - Cybersecurity at UQAC 🔐
 
-Currently working as a CEA intern. I focus on high-performance computing, distributed systems, security, algorithms, embedded systems, and visualization.
+Currently working as a CEA intern. I focus on high-performance computing, distributed systems, security, embedded systems.
 
 ---
 
