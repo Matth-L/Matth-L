@@ -12,7 +12,7 @@ Currently working as a CEA intern. I focus on high-performance computing, distri
 
 ### Projects Overview
 
-| Category | Project | What it is | Link |
+| Category | Project Name | Description | Link |
 |---|---|---|---|
 | ⚡ HPC | llview-docker-cluster | Docker cluster with LLView from JSC | [🔗](https://github.com/Matth-L/llview-docker-cluster) |
 | ⚡ HPC | ldms-docker-cluster | Docker cluster with LDMS (Lightweight Distributed Metric Store) from OVIS-HPC. | [🔗](https://github.com/Matth-L/ldms-docker-cluster) |
