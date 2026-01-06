@@ -16,7 +16,7 @@ Currently working as a CEA intern. I focus on high-performance computing, distri
 |---|---|---|---|
 | ⚡ HPC | llview-docker-cluster | Docker cluster with LLView from JSC | [🔗](https://github.com/Matth-L/llview-docker-cluster) |
 | ⚡ HPC | ldms-docker-cluster | Docker cluster with LDMS (Lightweight Distributed Metric Store) from OVIS-HPC. | [🔗](https://github.com/Matth-L/ldms-docker-cluster) |
-| ⚡ HPC | llview | LLView monitoring and visualization tools (upstream contribution). | [🔗]([https://github.com/Matth-L/llview]) |
+| ⚡ HPC | llview | LLView monitoring and visualization tools (upstream contribution). | [🔗](https://github.com/Matth-L/llview) |
 | 🛠️ DevOps | detectish | Minimal system detection tool for quickly identifying OS/hardware details. | [🔗](https://github.com/Matth-L/detectish) |
 | 🛠️ DevOps | BigKubeData | Tools and examples for gathering and analyzing Kubernetes data at scale. | [🔗](https://github.com/Matth-L/BigKubeData) |
 | 📡 Security & IoT | RaspiGatekeeper | Raspberry Pi-based gatekeeper for home/edge deployments. | [🔗](https://github.com/Matth-L/RaspiGatekeeper) |
