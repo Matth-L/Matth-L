@@ -14,8 +14,8 @@ Currently working as a CEA intern. I focus on high-performance computing, distri
 
 | Category | Project Name | Description | Link |
 |---|---|---|---|
-| ⚡ HPC | llview-docker-cluster | Docker cluster with LLView from JSC | [🔗](https://github.com/Matth-L/llview-docker-cluster) |
-| ⚡ HPC | ldms-docker-cluster | Docker cluster with LDMS (Lightweight Distributed Metric Store) from OVIS-HPC. | [🔗](https://github.com/Matth-L/ldms-docker-cluster) |
+| ⚡ HPC | llview-docker-cluster | Docker cluster with LLView from JSC. Made during my intership at CEA | [🔗](https://github.com/Matth-L/llview-docker-cluster) |
+| ⚡ HPC | ldms-docker-cluster | Docker cluster with LDMS (Lightweight Distributed Metric Store) from OVIS-HPC. Made during my intership at CEA | [🔗](https://github.com/Matth-L/ldms-docker-cluster) |
 | ⚡ HPC | llview | LLView monitoring and visualization tools (upstream contribution). | [🔗](https://github.com/Matth-L/llview) |
 | 🛠️ DevOps | detectish | Minimal system detection tool for quickly identifying OS/hardware details. | [🔗](https://github.com/Matth-L/detectish) |
 | 🛠️ DevOps | BigKubeData | Tools and examples for gathering and analyzing Kubernetes data at scale. | [🔗](https://github.com/Matth-L/BigKubeData) |
