@@ -1,11 +1,8 @@
-# Hi there, I'm Matthias Lapu! 👋
+# Matthias Lapu
 
 <img align="right" width="150" src="./img/coffee.gif" alt="Coffee GIF" />
 
-I'm a Computer Science student pursuing a double master's degree in:
-- High-Performance Computing at ENSIIE 🖥️
-- Cybersecurity at UQAC 🔐
-
+Engineer at CEA with a double Master’s degree specializing in High-Performance Computing at ENSIIE 🖥️ and Cybersecurity at UQAC 🔐
 
 ---
 
