@@ -2,7 +2,7 @@
 
 <img align="right" width="150" src="./img/coffee.gif" alt="Coffee GIF" />
 
-Engineer at CEA with a double Master’s degree specializing in High-Performance Computing at ENSIIE 🖥️ and Cybersecurity at UQAC 🔐
+Engineer with a double Master’s degree specializing in High-Performance Computing at ENSIIE 🖥️ and Cybersecurity at UQAC 🔐
 
 ---
 
