@@ -6,7 +6,7 @@ Engineer at CEA with a double Master’s degree specializing in High-Performance
 
 ---
 
-### Projects Overview
+### Projects related to school & internship
 
 | Category | Project Name | Description | Link |
 |---|---|---|---|
